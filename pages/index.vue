@@ -15,62 +15,62 @@
           br
           hr
           .container.technology
-            .columns.is-multiline.is-centered
-              .column.is-3
+            .columns.is-multiline.is-centered.is-flex
+              .column.is-3.is-6-mobile
                 a(href="/")
                   img(src="~assets/images/technology/tech-html.png")
                 //- a
                 p HTML
               //- column
-              .column.is-3
+              .column.is-3.is-6-mobile
                 a(href="/")
                   img(src="~assets/images/technology/tech-css.png")
                 //- a
                 p CSS
               //- column
-              .column.is-3
+              .column.is-3.is-6-mobile
                 a(href="/")
                   img(src="~assets/images/technology/tech-js.png")
                 //- a
                 p Javascript
               //- column
-              .column.is-3
+              .column.is-3.is-6-mobile
                 a(href="/")
                   img(src="~assets/images/technology/tech-pug.png")
                 //- a
                 p Pug
               //- column
-              .column.is-3
+              .column.is-3.is-6-mobile
                 a(href="/")
                   img(src="~assets/images/technology/tech-vue.png")
                 //- a
                 p Vue
               //- column
-              .column.is-3
+              .column.is-3.is-6-mobile
                 a(href="/")
                   img(src="~assets/images/technology/tech-sass.png")
                 //- a
                 p Sass
               //- column
-              .column.is-3
+              .column.is-3.is-6-mobile
                 a(href="/")
                   img(src="~assets/images/technology/tech-nuxt.png")
                 //- a
                 p Nuxt
               //- column
-              .column.is-3
+              .column.is-3.is-6-mobile
                 a(href="/")
                   img(src="~assets/images/technology/tech-ui.png")
                 //- a
                 p UI/UX
               //- column
-              .column.is-3
+              .column.is-3.is-6-mobile
                 a(href="/")
                   img(src="~assets/images/technology/tech-bootstrap.png")
                 //- a
                 p Bootstrap
               //- column
-              .column.is-3
+              .column.is-3.is-6-mobile
                 a(href="/")
                   img(src="~assets/images/technology/tech-bulma.png")
                 //- a
