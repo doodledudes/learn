@@ -4,7 +4,7 @@
       article
         img(src="~assets/images/logo.png")
         h1.title
-          | learn
+          | learn SHITS
         //- h1
         h2.subtitle
           | ToolTwist Tech Stacks
