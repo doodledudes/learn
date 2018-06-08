@@ -28,6 +28,7 @@ h1, h2, h3, h4, h5 {
     }
     img {
       width: 50%;
+      transition: all .2s ease-in-out;
     }
     a {
       & {
@@ -35,6 +36,9 @@ h1, h2, h3, h4, h5 {
       }
       &:hover {
         background: whitesmoke;
+        img {
+          transform: translateY(-5px);
+        }
       }
     }
   }
