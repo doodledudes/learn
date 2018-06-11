@@ -13,60 +13,60 @@
           button.button.is-default.is-large(slot="trigger") Get Started
           |
           hr
-          h4.subtitle.is-size-4 Web Design / Front-End
-          .columns.is-multiline.is-centered.is-flex
-            .column.is-3.is-6-mobile
-              a(target="_blank", href="//www.w3schools.com/html/")
-                img(src="~assets/images/technology/tech-html.png")
-              //- a
-              p HTML
-            //- column
-            .column.is-3.is-6-mobile
-              a(target="_blank", href="//www.w3schools.com/Css/")
-                img(src="~assets/images/technology/tech-css.png")
-              //- a
-              p CSS
-            //- column
-            .column.is-3.is-6-mobile
-              a(target="_blank", href="//www.w3schools.com/js/")
-                img(src="~assets/images/technology/tech-js.png")
-              //- a
-              p Javascript
-            //- column
-            .column.is-3.is-6-mobile
-              a(target="_blank", href="//pugjs.org/api/getting-started.html")
-                img(src="~assets/images/technology/tech-pug.png")
-              //- a
-              p Pug
-            //- column
-            .column.is-3.is-6-mobile
-              a(target="_blank", href="//sass-lang.com")
-                img(src="~assets/images/technology/tech-sass.png")
-              //- a
-              p Sass
-            //- column
-            .column.is-3.is-6-mobile
-              a(target="_blank", href="//getbootstrap.com")
-                img(src="~assets/images/technology/tech-bootstrap.png")
-              //- a
-              p Bootstrap
-            //- column
-            .column.is-3.is-6-mobile
-              a(target="_blank", href="//bulma.io")
-                img(src="~assets/images/technology/tech-bulma.png")
-              //- a
-              p Bulma
-            //- column
-            .column.is-3.is-6-mobile
-              a(target="_blank", href="//www.nngroup.com")
-                img(src="~assets/images/technology/tech-ui.png")
-              //- a
-              p UI/UX
-            //- column
-          //- columns
-          br
-          br
           .container.technology
+            h4.subtitle.is-size-4 Web Design / Front-End
+            .columns.is-multiline.is-centered.is-flex
+              .column.is-3.is-6-mobile
+                a(target="_blank", href="//www.w3schools.com/html/")
+                  img(src="~assets/images/technology/tech-html.png")
+                //- a
+                p HTML
+              //- column
+              .column.is-3.is-6-mobile
+                a(target="_blank", href="//www.w3schools.com/Css/")
+                  img(src="~assets/images/technology/tech-css.png")
+                //- a
+                p CSS
+              //- column
+              .column.is-3.is-6-mobile
+                a(target="_blank", href="//www.w3schools.com/js/")
+                  img(src="~assets/images/technology/tech-js.png")
+                //- a
+                p Javascript
+              //- column
+              .column.is-3.is-6-mobile
+                a(target="_blank", href="//pugjs.org/api/getting-started.html")
+                  img(src="~assets/images/technology/tech-pug.png")
+                //- a
+                p Pug
+              //- column
+              .column.is-3.is-6-mobile
+                a(target="_blank", href="//sass-lang.com")
+                  img(src="~assets/images/technology/tech-sass.png")
+                //- a
+                p Sass
+              //- column
+              .column.is-3.is-6-mobile
+                a(target="_blank", href="//getbootstrap.com")
+                  img(src="~assets/images/technology/tech-bootstrap.png")
+                //- a
+                p Bootstrap
+              //- column
+              .column.is-3.is-6-mobile
+                a(target="_blank", href="//bulma.io")
+                  img(src="~assets/images/technology/tech-bulma.png")
+                //- a
+                p Bulma
+              //- column
+              .column.is-3.is-6-mobile
+                a(target="_blank", href="//www.nngroup.com")
+                  img(src="~assets/images/technology/tech-ui.png")
+                //- a
+                p UI/UX
+              //- column
+            //- columns
+            br
+            br
             h4.subtitle.is-size-4 Back-end
             .columns.is-multiline.is-centered.is-flex
               .column.is-3.is-6-mobile
